@@ -21,3 +21,14 @@ BranchName="main"
 GitRepo="https://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@github.com/sindhuja00004/TestingRepoforJenkins.git"
 GitRepo1="https://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@github.com/GParvathaSetty/VE_mvp_aobdxc.git"
 BranchName1="1.2.0"
+
+
+
+|-----DevOps
+      |---Mod Pipeline
+      |   |----Modular Pipeline.yml
+      |---Sub pipeline for Mod
+          |---- ASoD Sub Pipeline.yml
+          |---- Sonar Sub Pipelines.yml
+      |---Variables
+          |---variables.groovy
